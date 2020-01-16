@@ -1,0 +1,19 @@
+fogo
+    lower 0, 82, 60
+    upper 7, 255, 255
+
+ardida1
+    lower 60, 0, 0
+    upper 127, 255, 40
+
+ardida2
+    lower 0, 0, 0
+    upper 24, 255, 40 (127, 255, 45, mais it)
+
+other 1
+    lower 0, 0, 110
+    upper 179, 65, 255
+
+other 2
+    lower 0, 0, 125
+    upper 179, 40, 170

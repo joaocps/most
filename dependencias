@@ -1,0 +1,14 @@
+-- Obrigatorias
+opencv-python
+cython
+pygame
+kivy
+pyshp
+GDAL
+    -- deb package
+        sudo apt-get install xclip xsel libgl-dev tk
+
+-- para debug de funcionalidades
+matplotlib
+
+
